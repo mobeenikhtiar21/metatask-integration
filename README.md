@@ -20,13 +20,12 @@ A React Native mobile application for transferring USDT (Tether) across multiple
 ### Connected State
 
 <p align="center">
-  <img src="src/assets/Screenshot_1767008464.png" width="200" alt="Connected Wallet"/>
-  <img src="src/assets/Screenshot_1767008564.png" width="200" alt="Send USDT Form"/>
+  <img src="src/assets/Screenshot_1767008464.png" width="220" alt="Connected Wallet"/>
 </p>
 
-| Connected Wallet | Send USDT Form |
-|:----------------:|:--------------:|
-| View balances & wallet info | Enter amount & recipient to send USDT |
+| Connected Wallet |
+|:----------------:|
+| View balances, wallet info & send USDT form |
 
 ## Features
 
